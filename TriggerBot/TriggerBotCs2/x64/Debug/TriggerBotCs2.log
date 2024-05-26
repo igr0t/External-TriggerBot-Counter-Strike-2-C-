@@ -1,0 +1,5 @@
+﻿  mainDLL.cpp
+mainDLL.obj : error LNK2019: símbolo externo não resolvido, "unsigned __int64 __cdecl memory::GetProcID(wchar_t const *)" (?GetProcID@memory@@YA_KPEB_W@Z), referenciado na função main
+mainDLL.obj : error LNK2019: símbolo externo não resolvido, "unsigned __int64 __cdecl memory::GetModuleBaseAddress(unsigned __int64,wchar_t const *)" (?GetModuleBaseAddress@memory@@YA_K_KPEB_W@Z), referenciado na função main
+TriggerBot.obj : error LNK2001: símbolo externo não resolvido "void * memory::gHandle" (?gHandle@memory@@3PEAXEA)
+C:\Users\igdas\source\repos\TriggerBotCs2\x64\Debug\TriggerBotCs2.exe : fatal error LNK1120: 3 externo não resolvidos
